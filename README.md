@@ -4,9 +4,8 @@
 
 We have two environments (Plaza and Lounge) and need to connect the two areas with a liminal space. We do not have any concept art for this area and need you to help extrapolate the style of the two environments into an area that naturally connects the two.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abb7e104-ec7b-44ca-86ec-2a68a8da4e13/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abb7e104-ec7b-44ca-86ec-2a68a8da4e13/Untitled.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e61c2490-6273-40ef-91de-cae1646818c2/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e61c2490-6273-40ef-91de-cae1646818c2/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/33485538/157899242-bb22f0dc-ae99-4fc4-85cb-cd48d2a9d142.jpg)
+![image](https://user-images.githubusercontent.com/33485538/157899008-2f25c94f-0370-42c5-907e-3aaf445a1ec7.png)
 
 ## The Goal
 
